@@ -123,7 +123,7 @@
 
 .smaal-features {
     width: 100%;
-    height: 40vh;
+    height: 50vh;
     background-image: url("../../assets/images/bg.jpg.webp");
 }
 
@@ -181,4 +181,69 @@ form p {
     font-size: 12px;
     margin-left: -15%;
     color: #8e8e8e;
+}
+
+.Illustrator {
+    width: 100%;
+    height: 60vh;
+}
+
+.Illustrator-info {
+    margin-top: 5%;
+}
+
+.Illustrator-info h6 {
+    margin: 5% 0 0 0;
+}
+
+.i-w-75 {
+    margin: 0 0 0 75%;
+}
+
+.p-w-50 {
+    margin: 0 0 0 50%;
+}
+
+.s-w-25 {
+    margin: 0 0 0 25%;
+}
+
+.div {
+    background: #eef6f9;
+    padding: 240px 35px 45px 38px;
+    border-radius: 15px;
+    margin-bottom: 42px;
+    position: relative;
+    margin: 20% 0 0 0%;
+}
+
+.div p {
+    margin-top: -30%;
+    color: #8e8e8e;
+}
+
+.imgg {
+    margin-top: 4%;
+    margin-left: 85%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.info {
+    margin: -10% 0 0 63%;
+}
+
+.info h6 {
+    color: black;
+    font-weight: bold;
+}
+
+.info p {
+    color: #eb2b63;
+    font-weight: bold;
 }
