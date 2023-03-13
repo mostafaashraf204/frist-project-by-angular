@@ -7,5 +7,6 @@ import { Component } from '@angular/core';
 })
 export class HomeComponent {
   rocket="../../assets/images/rocket.png.webp"
+  smallRocket="../../assets/images/section-title-icon.png.webp"
 
 }
