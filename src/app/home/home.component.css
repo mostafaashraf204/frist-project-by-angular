@@ -247,3 +247,78 @@ form p {
     color: #eb2b63;
     font-weight: bold;
 }
+
+.plan {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.basic-plan {
+    text-align: center;
+    width: 116%;
+    padding: 16px;
+    border-radius: 14px;
+    margin-bottom: 15px;
+    background: #7246b3;
+    background: linear-gradient(to right, #7246b3 0%, #431483 100%);
+}
+
+.basic-plann {
+    text-align: center;
+    width: 116%;
+    padding: 16px;
+    border-radius: 14px;
+    margin-bottom: 15px;
+    color: #fff;
+    background: #ff3c50;
+}
+
+.basic-plan h4 {
+    font-weight: bold;
+    font-size: 28px;
+    color: #fff;
+}
+
+.basic-plann h4 {
+    font-weight: bold;
+    font-size: 30px;
+    color: #fff;
+}
+
+.mleft {
+    margin-left: 6%;
+}
+
+.get-plan {
+    background: #eef6f9;
+    text-align: center;
+    width: 354px;
+    height: 500px;
+    border-radius: 14px;
+}
+
+.get-plan ul {
+    list-style: none;
+    margin-top: 10%;
+}
+
+.get-plan ul li {
+    padding-bottom: 50px;
+    font-weight: bold;
+    color: #8e8e8e;
+}
+
+.btn3 {
+    display: inline-block;
+    border: none;
+    font-size: 14px;
+    font-weight: 400;
+    min-width: 270px;
+    padding: 17px 25px;
+    border-radius: 14px;
+    background: #eb2b63;
+    color: #fff;
+    line-height: 1;
+    cursor: pointer;
+    text-align: center;
+}
